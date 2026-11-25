@@ -32,12 +32,12 @@ El escenario principal ejecuta secuencialmente los siguientes pasos:
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/dcaballeroh/booksOrdersReto.git
    ```
 
 2. **Ingresa al directorio del proyecto:**
    ```bash
-   cd nombre-del-repositorio
+   cd reto-karate-api
    ```
 
 ## 💻 Ejecución de las pruebas
@@ -57,3 +57,7 @@ Al finalizar la ejecución, Karate genera automáticamente un reporte detallado 
 ```text
 build/karate-reports/karate-summary.html
 ```
+
+## ✍️ Autor
+
+* **David Caballero**
